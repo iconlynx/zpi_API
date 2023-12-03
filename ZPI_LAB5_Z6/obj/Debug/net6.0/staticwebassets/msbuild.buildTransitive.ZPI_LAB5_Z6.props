@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ZPI_LAB5_Z6.props" />
+</Project>
